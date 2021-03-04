@@ -1,4 +1,4 @@
-- ♥ I love Ruby, SQL, Music and Beer.
+- ♥ I love Ruby, SQL, Music and Beer🍻.
 - 📫 How to reach me: ... [g4160hs@gmail.com](mailto:g4160hs@gmail.com)
 - ⚡ Fun fact: ... I was playing the drums at [this](https://www.youtube.com/watch?v=DUdJDSBQzBw). [Now](https://www.youtube.com/watch?v=2piA1RRuv_g)
 
