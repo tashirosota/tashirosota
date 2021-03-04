@@ -1,4 +1,4 @@
-- I love ruby and sql
+- ♥ I love Ruby and SQL and Music.
 - 📫 How to reach me: ... [g4160hs@gmail.com](mailto:g4160hs@gmail.com)
 - ⚡ Fun fact: ... I was member of [this](https://www.youtube.com/watch?v=DUdJDSBQzBw) band. [Now](https://www.youtube.com/watch?v=2piA1RRuv_g)
 
