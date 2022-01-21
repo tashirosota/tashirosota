@@ -8,18 +8,21 @@
 ## OSS
 Please give me a star　if you have an OSS you like🍻
 ### PokeMake
+Made by Elixir.
 [PokeMake](https://github.com/tashirosota/poke_make) is command line tool to decorate your make commands with Pokemon made by Elixir.
 
 ![demo](https://user-images.githubusercontent.com/33741858/150304582-60997dd7-83ee-444c-afe9-ad315d1b38e7.gif)
 
 ### REnum
-
+Made by Elixir.
 [REnum](https://hexdocs.pm/r_enum/readme.html) is Enum extended with convenient functions inspired by Ruby and Rails ActiveSupport.
 
 ### StacktraceCleaner
+Made by Elixir.
 Stacktraces often include many lines that are not relevant for the context under review. This makes it hard to find the signal amongst many noise, and adds debugging time. [StacktraceCleaner](https://hexdocs.pm/stacktrace_cleaner/readme.html) is a module to remove those noises and make them easier to see. Inspired by ActiveSupport::BacktraceCleaner
 
 ### RedashBackup
+Made by Ruby.
 [RedashBackup](https://github.com/tashirosota/ruby-redash_backup/) is simple Redash's query backup tool.
 
 ## PetProjects
