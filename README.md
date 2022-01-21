@@ -6,6 +6,7 @@
 - ⚡ Fun fact: ... I was playing the drums at [this](https://www.youtube.com/watch?v=DUdJDSBQzBw). [Now](https://www.youtube.com/watch?v=8hdyhaJgAPc)
 
 ## OSS
+Please give me a star　if you have an OSS you like🍻
 ### PokeMake
 [PokeMake](https://github.com/tashirosota/poke_make) is command line tool to decorate your make commands with Pokemon made by Elixir.
 
