@@ -1,6 +1,6 @@
 # Welcome to my github page.
 ## Proifile
-- I'm a 26-year-old man living in Japan.
+- I'm living in Japan.
 - ♥ I love Elixir, Ruby, SQL, Music and Beer🍻.
 - 📫 How to reach me: ... [g4160hs@gmail.com](mailto:g4160hs@gmail.com)
 - ⚡ Fun fact: ... I was playing the drums at [this](https://www.youtube.com/watch?v=DUdJDSBQzBw). [Now](https://www.youtube.com/watch?v=8hdyhaJgAPc)
