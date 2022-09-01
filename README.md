@@ -1,6 +1,6 @@
 # Welcome to my github.
 
-See more https://sotashiro.gigalixirapp.com/
+See more https://sotashiro.herokuapp.com/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tashirosota&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
