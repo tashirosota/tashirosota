@@ -1,7 +1,4 @@
 # Welcome to my github.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tashirosota&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=tashirosota&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 
